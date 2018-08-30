@@ -17,6 +17,6 @@
     "@opam/menhir": "20170712"
   },
   "dependencies": {
-    "@opam/rtop": "*"
+    "@esy-ocaml/rtop": "*"
   }
 }

@@ -13,6 +13,9 @@
   "devDependencies": {
     "ocaml": "~4.6.0"
   }, 
+  "resolutions": {
+    "@opam/menhir": "20170712"
+  },
   "dependencies": {
     "@opam/rtop": "*"
   }
